@@ -21,12 +21,12 @@ Make sure you have the following software installed on your system:
 
 - Node.js: [Download](https://nodejs.org/)
 
-### Installation
+### In[stallation
 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/restful-nodejs-server.git
+   git clone ](https://github.com/adityagithubraj/pinakee_node)
 
 ### Install dependencies
 2.npm install:
